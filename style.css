@@ -31,7 +31,7 @@ justify-content: space-around;
 
 #hd__sec01 {
     flex: 4;
-    background-image: url(/logo-removebg-preview.png);
+    background-image: url(logo-removebg-preview.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
